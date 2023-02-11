@@ -9,4 +9,11 @@ Serverul Apache v-a servi drept intermediar pentru datele ce vor fi servite de a
 <br><br>
 
 La fiecare 4 secunde, scriptul Python preia datele din API-ul furnizat, apoi le verifica. Daca indeplineste criteriile necesare, mesajul este trimis pe canalul setat.
-![image](https://user-images.githubusercontent.com/12985385/218281961-7ffe374f-04c3-423c-8fa8-73958703cf51.png)
+
+<h1> Exemple de mesaje </h1>
+- Cutremur nou inregistrat:
+![image](https://user-images.githubusercontent.com/12985385/218282284-f04c5d7e-5e7e-4144-b770-cb3b02a974fb.png)
+
+- Cutremur mai mare de 4.5 grade:
+![image](https://user-images.githubusercontent.com/12985385/218282267-3b491841-eae8-4170-a89d-3440f0a1c3e1.png)
+
