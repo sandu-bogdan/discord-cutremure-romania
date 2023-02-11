@@ -11,6 +11,7 @@ Serverul Apache v-a servi drept intermediar pentru datele ce vor fi servite de a
 La fiecare 4 secunde, scriptul Python preia datele din API-ul furnizat, apoi le verifica. Daca indeplineste criteriile necesare, mesajul este trimis pe canalul setat.
 
 <h1> Exemple de mesaje </h1>
+
 - Cutremur nou inregistrat:
 ![image](https://user-images.githubusercontent.com/12985385/218282284-f04c5d7e-5e7e-4144-b770-cb3b02a974fb.png)
 
