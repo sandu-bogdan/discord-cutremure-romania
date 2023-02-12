@@ -21,4 +21,4 @@ La fiecare 4 secunde, scriptul Python preia datele din API-ul furnizat, apoi le 
 ![image](https://user-images.githubusercontent.com/12985385/218282267-3b491841-eae8-4170-a89d-3440f0a1c3e1.png)
 
 <h2>Canal live Discord </h2>
-[![](https://dcbadge.vercel.app/api/server/wFqssTsC)](https://discord.gg/wFqssTsC)
+![image](https://dcbadge.vercel.app/api/server/wFqssTsC)(https://discord.gg/wFqssTsC)
